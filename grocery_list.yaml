@@ -1,0 +1,19 @@
+######################################
+# Intro to YAML via Grocery Shopping #
+######################################
+
+# This is my shopping list!
+vegetables:
+  - carrot
+  - potato # if unavailable, substitute beets..
+  - tomato
+  - onion
+snacks:
+  - beet chips
+  - popcorn
+  - cookies
+fruits:
+  - apple
+  - banana
+  - pear
+  - orange
